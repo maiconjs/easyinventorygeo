@@ -1,0 +1,85 @@
+13:08:26.021; Ring0.extrairDriver: true
+13:08:26.034; Ring0.driver.IsOpen: false
+13:08:27.214; PrepararNovoInventario
+13:08:28.417; Ring0.Status: Installing driver "C:\Program Files (x86)\EasyInventory\Easy2WSu.sys" failed and file exists
+13:08:28.418; Ring0.First Exception: StartService returned the error: O Windows não pode verificar a assinatura digital deste arquivo. Talvez uma alteração recente de hardware ou software tenha instalado um arquivo com uma assinatura incorreta ou danificado, ou talvez o arquivo seja um software mal-intencionado de origem desconhecida. (Exceção de HRESULT: 0x80070241)
+13:08:28.419; Ring0.Second Exception: StartService returned the error: O Windows não pode verificar a assinatura digital deste arquivo. Talvez uma alteração recente de hardware ou software tenha instalado um arquivo com uma assinatura incorreta ou danificado, ou talvez o arquivo seja um software mal-intencionado de origem desconhecida. (Exceção de HRESULT: 0x80070241)
+13:21:28.432; PrepararNovoInventario
+13:21:58.777; IniciarDistribuicao
+13:22:00.152; ConfirmarInicioProcessoDistribuicao
+13:22:00.349; ProcessarDistribuicao
+13:22:00.357; InstalarArquivoDistribuicao
+13:22:00.363; BaixarArquivoDistribuicao
+13:22:01.880; BaixarArquivoDistribuicaoURL: false---https://github.com/maiconjs/easyinventorygeo/releases/download/geo/
+13:22:01.881; ProcessarDistribuicao: 12
+13:22:03.877; VerificarFimDistribuicao: 12
+13:22:21.649; PrepararNovoInventario
+13:23:28.749; PrepararNovoInventario
+13:23:57.536; IniciarDistribuicao
+13:23:58.903; ConfirmarInicioProcessoDistribuicao
+13:24:02.088; ProcessarDistribuicao
+13:24:02.089; InstalarArquivoDistribuicao
+13:24:02.090; BaixarArquivoDistribuicao
+13:24:03.266; BaixarArquivoDistribuicaoURL: false---https://github.com/maiconjs/easyinventorygeo/releases/download/geo/
+13:24:03.268; ProcessarDistribuicao: 12
+13:24:05.201; VerificarFimDistribuicao: 12
+13:24:22.738; PrepararNovoInventario
+14:25:00.380; IniciarDistribuicao
+14:25:01.771; ConfirmarInicioProcessoDistribuicao
+14:25:04.627; ProcessarDistribuicao
+14:25:04.629; InstalarArquivoDistribuicao
+14:25:04.630; BaixarArquivoDistribuicao
+14:25:05.786; BaixarArquivoDistribuicaoURL: false---https://github.com/maiconjs/easyinventorygeo/raw/350b1520924d3c5802f22c87f08951246ae791f6/
+14:25:05.789; ProcessarDistribuicao: 12
+14:25:07.642; VerificarFimDistribuicao: 12
+14:25:25.490; PrepararNovoInventario
+14:44:35.532; Ring0.extrairDriver: true
+14:44:35.548; Ring0.driver.IsOpen: false
+14:44:37.782; Ring0.Status: Installing driver "C:\Program Files (x86)\EasyInventory\Easy2WSu.sys" failed and file exists
+14:44:37.782; Ring0.First Exception: Service already exists
+14:44:37.782; Ring0.Second Exception: StartService returned the error: O Windows não pode verificar a assinatura digital deste arquivo. Talvez uma alteração recente de hardware ou software tenha instalado um arquivo com uma assinatura incorreta ou danificado, ou talvez o arquivo seja um software mal-intencionado de origem desconhecida. (Exceção de HRESULT: 0x80070241)
+14:44:38.126; PrepararNovoInventario
+14:59:09.411; PrepararNovoInventario
+15:11:38.877; PrepararNovoInventario
+15:12:09.206; IniciarDistribuicao
+15:12:10.570; ConfirmarInicioProcessoDistribuicao
+15:12:12.474; ProcessarDistribuicao
+15:12:12.478; InstalarArquivoDistribuicao
+15:12:12.485; BaixarArquivoDistribuicao
+15:12:13.930; BaixarArquivoDistribuicaoURL: false---https://github.com/maiconjs/easyinventorygeo/raw/refs/heads/main/
+15:12:13.932; ProcessarDistribuicao: 12
+15:12:15.326; VerificarFimDistribuicao: 12
+15:12:32.813; PrepararNovoInventario
+15:13:09.331; PrepararNovoInventario
+15:23:40.156; PrepararNovoInventario
+15:24:12.252; IniciarDistribuicao
+15:24:13.538; ConfirmarInicioProcessoDistribuicao
+15:24:15.042; ProcessarDistribuicao
+15:24:15.044; InstalarArquivoDistribuicao
+15:24:15.046; BaixarArquivoDistribuicao
+15:24:16.040; BaixarArquivoDistribuicaoURL: false---https://github.com/maiconjs/easyinventorygeo/raw/refs/heads/main/
+15:24:16.041; ProcessarDistribuicao: 12
+15:24:18.324; VerificarFimDistribuicao: 12
+15:24:36.021; PrepararNovoInventario
+15:29:40.872; PrepararNovoInventario
+15:30:12.870; IniciarDistribuicao
+15:30:14.250; ConfirmarInicioProcessoDistribuicao
+15:30:16.597; ProcessarDistribuicao
+15:30:16.598; InstalarArquivoDistribuicao
+15:30:16.599; BaixarArquivoDistribuicao
+15:30:17.615; BaixarArquivoDistribuicaoURL: false---https://github.com/maiconjs/easyinventorygeo/raw/refs/heads/main/
+15:30:17.616; ProcessarDistribuicao: 12
+15:30:19.033; VerificarFimDistribuicao: 12
+15:30:39.948; PrepararNovoInventario
+15:34:57.282; PrepararNovoInventario
+15:35:41.569; PrepararNovoInventario
+15:36:11.922; IniciarDistribuicao
+15:36:13.195; ProcessarDistribuicao
+15:36:13.305; ConfirmarInicioProcessoDistribuicao
+15:36:18.211; ProcessarDistribuicao
+15:36:18.213; InstalarArquivoDistribuicao
+15:36:18.213; BaixarArquivoDistribuicao
+15:36:19.485; BaixarArquivoDistribuicaoURL: false---https://github.com/maiconjs/easyinventorygeo/releases/download/geo/
+15:36:19.486; ProcessarDistribuicao: 12
+15:36:21.359; VerificarFimDistribuicao: 12
+15:36:40.354; PrepararNovoInventario
